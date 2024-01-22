@@ -7,8 +7,8 @@
 
 ### Métricas
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=esteerlino&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esteerlino&layout=compact&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=esteerlino&show_icons=true&count_private=true&theme=radical" alt="Github Analytics esteerlino"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esteerlino&layout=compact&hide_border=false&theme=radical"/>
 </div>
 
 ### Contato 
