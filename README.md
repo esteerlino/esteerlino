@@ -11,6 +11,10 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esteerlino&layout=compact&hide_border=false&theme=radical"/>
 </div>
 
+<div align="center">
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=esteerlino&theme=radical"/>
+</div>
+
 ### Contato 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esterlino)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esteerlino@gmail.com)
