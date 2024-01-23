@@ -1,7 +1,6 @@
 ## Oiii! Sou a Ester Lino! Seja bem-vind@! 
 
 - 📚 Sou estudante de graduação do curso Engenharia de Software na UnB.
-- 🔭 Atualmente participo do projeto de Residência em TIC da [BRISA](https://brisabr.com.br/residenciaemtic/).
 - 🌱 Estou me aperfeiçoando em Gestão de Projetos e Front-End.
 - 📑 Meu currículo no [Lattes](http://lattes.cnpq.br/2659577396394760)
 - 💻 Meu [portifólio](https://esteerlino.github.io/). Ele está sendo atualizado.
