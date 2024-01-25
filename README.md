@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=esteerlino&theme=radical"/>
+  <a href="https://git.io/streak-stats"><img  height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=esteerlino&theme=radical" alt="GitHub Streak" /></a>
 </div>
 
 ### Contato 
