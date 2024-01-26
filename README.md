@@ -5,16 +5,6 @@
 - 📑 Meu currículo no [Lattes](http://lattes.cnpq.br/2659577396394760)
 - 💻 Meu [portifólio](https://esteerlino.github.io/). Ele está sendo atualizado.
 
-### Github Analytics
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=esteerlino&show_icons=true&count_private=true&theme=radical" alt="Github Analytics esteerlino"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esteerlino&layout=compact&hide_border=false&theme=radical"/>
-</div>
-
-<div align="center">
-  <a href="https://git.io/streak-stats"><img  height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=esteerlino&theme=radical" alt="GitHub Streak" /></a>
-</div>
-
 ### Contato 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esterlino)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esteerlino@gmail.com)
