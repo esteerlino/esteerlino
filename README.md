@@ -3,7 +3,7 @@
 - 📚 Sou estudante de graduação do curso Engenharia de Software na UnB.
 - 🌱 Estou me aperfeiçoando em Gestão de Projetos e Front-End.
 - 📑 Meu currículo no [Lattes](http://lattes.cnpq.br/2659577396394760)
-- 💻 Meu [portifólio](https://esteerlino.github.io/Portifolio). Ele está sendo atualizado.
+- 💻 Meu [portfólio](https://esteerlino.github.io/Portfolio). Ele está sendo atualizado.
 
 ### Github Analytics
 <div align="center">
