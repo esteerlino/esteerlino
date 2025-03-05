@@ -1,10 +1,9 @@
 ## Oiii! Sou a Ester Lino! Seja bem-vind@! 
 
 - 📚 Sou estudante de graduação do curso Engenharia de Software na UnB.
-- 💻 Sou desenvolvedora Web.
+- 💻 Sou Desenvolvedora Full Stack
 - 🌱 Estou me aperfeiçoando em Gestão de Projetos, Machine/Deep Learning e Ciência de Dados.
-- 📑 Meu currículo no [Lattes](http://lattes.cnpq.br/2659577396394760)
-- 💻 Meu [portfolio](https://esteerlino.github.io/Portfolio). Ele está sendo atualizado.
+- 💻 Meu LinkedIn [LinkedIn](www.linkedin.com/in/esterlino) 
 
 ### Github Analytics
 <div align="center">
